@@ -1,3 +1,3 @@
 <?php
 
-echo phpindo();
+echo "Hello world";
